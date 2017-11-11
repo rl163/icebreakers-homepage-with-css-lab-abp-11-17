@@ -49,3 +49,11 @@ nav a:hover {
 main {
   margin-top: 20px;
 }
+
+div.jumbotron {
+  border-radius: 5px;
+  color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+  
+}
